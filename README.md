@@ -1,3 +1,4 @@
 # racereviewchatsignalr
-SignalR chat code for msa phase 2 for https://github.com/GeorgeCLu/RaceReview
-based upon: https://softchris.github.io/pages/dotnet-signalr.html
+SignalR chat .NET Core Azure function app code for https://github.com/GeorgeCLu/RaceReview
+
+Based upon: https://softchris.github.io/pages/dotnet-signalr.html
